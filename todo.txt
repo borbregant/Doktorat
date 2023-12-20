@@ -1,7 +1,0 @@
-Teoreticno ozadje spremenljivk v raziskavi
-
-sci hub - zastonj clanki - kopiras DOI
-zenodo - deljenje datasetov
-google scholar
-consensus - gpt za strokovno
-scopus - advanced search "AI" OR "ML" alpa "tandem" AND "education"
