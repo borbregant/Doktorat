@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70218" creator="Ipe 7.2.26">
-<info created="D:20240112093355" modified="D:20240329082059"/>
+<info created="D:20240112093355" modified="D:20240518161010"/>
 <ipestyle name="basic">
 <symbol name="arrow/arc(spx)">
 <path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
@@ -320,7 +320,7 @@ h
 384 768 l
 h
 </path>
-<path stroke="black">
+<path stroke="0" dash="dotted" pen="0.2">
 64 0 0 64 256 704 e
 </path>
 <path stroke="black">
@@ -346,15 +346,16 @@ h
 <text transformations="translations" pos="210.786 739.116" stroke="black" type="label" width="29.342" height="3.468" depth="0.96" valign="baseline" size="tiny">Učiteljeve</text>
 <text matrix="1 0 0 1 -9.271 0.618066" transformations="translations" pos="224.383 733.244" stroke="black" type="label" width="34.766" height="3.468" depth="0.96" valign="baseline" size="tiny">kompetence</text>
 <text matrix="1 0 0 1 -40.7924 0.618066" transformations="translations" pos="194.407 712.539" stroke="black" type="label" width="88.247" height="3.468" depth="0.96" valign="baseline" size="tiny">Orodja &quot;and representations&quot;</text>
-<text matrix="1 0 0 1 -0.401478 0.401478" transformations="translations" pos="243.749 757.186" stroke="black" type="label" width="63.041" height="6.918" depth="0" valign="baseline">Ethics of care
+<text matrix="1 0 0 1 -8.12731 1.63761" transformations="translations" pos="243.749 757.186" stroke="black" type="label" width="43.504" height="3.459" depth="0" valign="baseline" size="tiny">Ethics of care
 </text>
-<text matrix="1 0 0 1 -2.00739 6.42365" transformations="translations" pos="271.049 735.506" stroke="black" type="label" width="100.291" height="6.926" depth="1.93" valign="baseline">Arranging for learning.</text>
-<text transformations="translations" pos="285.101 711.417" stroke="black" type="label" width="132.808" height="6.926" depth="1.93" valign="baseline">Building on student&apos;s thinking</text>
-<text transformations="translations" pos="280.283 689.738" stroke="black" type="label" width="120.659" height="6.926" depth="1.93" valign="baseline">Matematična komunikacija
+<text matrix="1 0 0 1 -2.00739 6.42365" transformations="translations" pos="271.049 735.506" stroke="black" type="label" width="66.91" height="3.468" depth="0.96" valign="baseline" size="tiny">Arranging for learning</text>
+<text matrix="1 0 0 1 -11.4342 -2.7813" transformations="translations" pos="285.101 711.417" stroke="black" type="label" width="110.414" height="3.468" depth="0.96" valign="baseline" size="tiny">Grajenje na učenčevem razmišljanju
 </text>
-<text transformations="translations" pos="275.465 655.612" stroke="black" type="label" width="78.318" height="6.926" depth="1.93" valign="baseline">Matematični jezik</text>
-<text transformations="translations" pos="244.953 650.794" stroke="black" type="label" width="41.705" height="6.926" depth="1.93" valign="baseline">Refleksija</text>
-<text transformations="translations" pos="213.236 664.043" stroke="black" type="label" width="75.412" height="6.918" depth="0" valign="baseline">Worthwhile tasks</text>
-<text transformations="translations" pos="181.519 687.73" stroke="black" type="label" width="86.398" height="6.926" depth="1.93" valign="baseline">Making connections</text>
+<text matrix="1 0 0 1 -3.7084 3.7084" transformations="translations" pos="280.283 689.738" stroke="black" type="label" width="82.269" height="3.468" depth="0.96" valign="baseline" size="tiny">Matematična komunikacija
+</text>
+<text transformations="translations" pos="275.465 655.612" stroke="black" type="label" width="53.591" height="3.468" depth="0.96" valign="baseline" size="tiny">Matematični jezik</text>
+<text transformations="translations" pos="244.953 650.794" stroke="black" type="label" width="28.975" height="3.468" depth="0.96" valign="baseline" size="tiny">Refleksija</text>
+<text matrix="1 0 0 1 -20.3962 -6.4897" transformations="translations" pos="213.236 664.043" stroke="black" type="label" width="41.934" height="3.468" depth="0.96" valign="baseline" size="tiny">Vredne naloge</text>
+<text matrix="1 0 0 1 -21.6323 0" transformations="translations" pos="181.519 687.73" stroke="black" type="label" width="69.712" height="3.468" depth="0.96" valign="baseline" size="tiny">Vzpostavljanje povezav</text>
 </page>
 </ipe>
